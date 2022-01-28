@@ -1,0 +1,7 @@
+{
+  "name": "v12-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
